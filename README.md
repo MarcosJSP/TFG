@@ -15,12 +15,12 @@ El desarrollo de este proyecto recae principalmente sobre la herramienta de dise
 ## Antes de empezar
 Es importante asegurarse de que se cumplen los siguientes prerequisitos, para garantizar una correcta ejecución del proyecto:
 
-* Tiene una cuenta [IBM Cloud](https://cloud.ibm.com/registration) y contratar los servicios [Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) y [Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text).
+* Tiene una cuenta [IBM Cloud](https://cloud.ibm.com/registration) y ha contratado los servicios [Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) y [Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text).
 * Ha instalado [Unity Hub](https://store.unity.com/es#plans-individual) en su ordenador.
-* Descargar el repositorio y añadirlo a Unity Hub.
+* Una vez descargado el repositorio, lo ha añadido a Unity Hub para ejecutarlo.
 
 ## Configuración de Unity
-1. Asegurarse de que  **Api Compatibility Level** en `File > Build Settings > Player Settings`, está usando  **.NET 4.x** o equivalente.
+1. Asegurese de que  **Api Compatibility Level** en `File > Build Settings > Player Settings`, está usando  **.NET 4.x** o equivalente.
 <p align="center">
   <img align="center" src="README%20assets/build-settings.png" alt="Configurando Api Compatibility Level"></img>
 </p>
