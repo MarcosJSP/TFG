@@ -1,5 +1,9 @@
 # TFG - Marcos JSP
 
+En este repositorio se aloja la implementación de interfaz desarrollada para el TFG: **Diseño y evaluación del UX y UI de un agente personal**, elaborada por Marcos Jesús Santana Pérez y tutorizada por Cayetano Nicolás Guerra Artal, para la [ULPGC - Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
+
+## Resumen del TFG
+
 Este TFG se centra en el diseño de una interfaz de usuario para un agente personal, respetando las mejores técnicas para garantizar una grata experiencia de usuario.
 
 Para lograr este propósito se ha realizado una labor de estudio de la evolución de las interfaces de usuario, y los asistentes virtuales, logrando un mejor entendimiento del éxito y el impacto que tienen estos últimos en la actualidad. Incluso, se exploran diversos artículos, con el objetivo de ofrecer una mejor interacción con el agente.
