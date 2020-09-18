@@ -34,7 +34,7 @@ Es importante asegurarse de que se cumplen los siguientes prerequisitos, para ga
 
 4. Se introduce la url de servicio y la clave Iam Apikey que ofrece el servicio [Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech). Una vez se selecciona el GameObject IBM Watson en `Hierarchy > Input-Output`, se pueden introducir estos valores en el panel Inspector, en los parámetros del Script TTS_Handler.
 <p align="center">
-  <img align="center" src="README%20assets/service.PNG" alt="Servicio TTS"></img>
+  <img align="center" src="README%20assets/service.png" alt="IBM Cloud: Servicio TTS"></img>
 </p>
 <p align="center">
   <img align="center" src="README%20assets/tts.PNG" alt="Actualizando los parámetros en el inspector (TTS)"></img>
