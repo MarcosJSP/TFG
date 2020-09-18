@@ -17,22 +17,18 @@ Es importante asegurarse de que se cumplen los siguientes prerequisitos, para ga
 
 ## Configuración de Unity
 1. Asegurarse de que  **Api Compatibility Level** en `File > Build Settings > Player Settings`, está usando  **.NET 4.x** o equivalente.
-
-   ![Configurando Api Compatibility Level](README%20assets/build-settings.png)
+<div align=”center”><img align="center" src="README%20assets/build-settings.png" alt="Configurando Api Compatibility Level"></img></div>
 
 2. Se ha seleccionado la **escena Mono**, donde se encuentra la implementación de la interfaz en el panel `Project > Assets > Scenes`.
+<div align=”center”><img align="center" src="README%20assets/scene.PNG" alt="Cambiando la escena a la escena Mono"></img></div>
 
-   ![Cambiando la escena a la escena Mono](README%20assets/scene.PNG)
 
 3. Se ha seleccionado la **resolución 375x812 (Iphone X)** , en base a la que fue diseñada la interfaz, para obtener una mejor experiencia. Esto se hace en el panel `Game > Aquí iría la resolución seleccionada (por defecto: Free Aspect) > +`.
-
-![Image of Yaktocat](README%20assets/resolution.PNG)
+<div align=”center”><img align="center" src="README%20assets/resolution.PNG" alt="Cambiando la resolución"></img></div>
 
 4. Se introduce la url de servicio y la clave Iam Apikey que ofrece el servicio [Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech). Una vez se selecciona el GameObject IBM Watson en `Hierarchy > Input-Output`, se pueden introducir estos valores en el panel Inspector, en los parámetros del Script TTS_Handler.
-
-   ![Servicio TTS](README%20assets/service.PNG)
-
-   ![Actualizando los parámetros en el inspector (TTS)](README%20assets/tts.PNG)
+<div align=”center”><img align="center" src="README%20assets/service.PNG" alt="Servicio TTS"></img></div>
+<div align=”center”><img align="center" src="README%20assets/tts.PNG" alt="Actualizando los parámetros en el inspector (TTS)"></img></div>
 
 5. Se repite la operación anterior pero esta vez sobre el GameObject, IBM Watson STT. Esta vez la clave Iam Apikey y la url del servicio vendrá dada por el servicio [Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text).
-   ![Actualizando los parámetros en el inspector (STT)](README%20assets/stt.PNG)
+<div align=”center”><img align="center" src="README%20assets/stt.PNG" alt="Actualizando los parámetros en el inspector (STT)"></img></div>
