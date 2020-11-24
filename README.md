@@ -12,6 +12,8 @@ Además, con propósito de evaluar la interfaz, se ha realizado una encuesta, en
 
 El desarrollo de este proyecto recae principalmente sobre la herramienta de diseño y prototipado, Adobe XD, y el entorno de desarrollo Unity (C#).
 
+\*\*<b>Pulsa [aquí](https://youtu.be/zgTUmXrtuEk) para ver una demo de la interfaz.</b>\*\*
+
 ## Antes de empezar
 Es importante asegurarse de que se cumplen los siguientes prerequisitos, para garantizar una correcta ejecución del proyecto:
 
